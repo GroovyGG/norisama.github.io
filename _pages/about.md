@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>The Lodge on the Elliðaey</p>
-    <p>FR9F+9R Elliðaey</p>
-    <p>YFR9F+9R Vestmannaeyjabær, Iceland</p>
+    <p>Vestmannaeyjabær, Iceland</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
