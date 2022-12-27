@@ -242,7 +242,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['哲学', '死亡', '电影', '学习', '思考'] # this tags will be dispalyed on the front page of your blog
+display_tags: ['哲学', '电影', '音乐', '艺术'，'创作','读书','猫','人'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
